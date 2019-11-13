@@ -7,3 +7,4 @@ else:
         print("drink water")
     else:
         print("do your work")
+        print("drin soda")
